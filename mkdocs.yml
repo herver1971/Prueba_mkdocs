@@ -1,0 +1,6 @@
+site_name: Pruebas MKdocs
+
+nav:
+  - Home: index.md
+  - Services:
+    - Odoo: odoo.md
