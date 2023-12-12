@@ -1,0 +1,19 @@
+site_name: Geonode 4
+theme:
+  name: material
+nav:
+    - Inicio: 'index.md'
+    - Módulo 1:
+        - Módulo 1 Teórico: 'modulo1.md'
+        - Módulo 1 Práctico: 'modulo1_practico.md'
+    - Módulo 2:
+        - Módulo 2 Teórico: 'modulo2.md'
+        - Módulo 2 Práctico: 'modulo2_practico.md'
+    - Módulo 3:
+        - Módulo 3 Teórico: 'modulo3.md'
+        - Módulo 3 Práctico: 'modulo3_practico.md'
+docs:
+    - Anexo: 'AnexoIdera.md'
+markdown_extensions:
+  - attr_list
+  - footnotes
